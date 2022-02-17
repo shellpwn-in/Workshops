@@ -25,10 +25,9 @@ for i in range(5, 10):
 print("\n")
 
 # for loop with step size 2
-j=1
-for i in range(1,10,2):
-    print(i, j)
-    j = j + 1
+for i in range(10,2):
+    print(i)
+
 print("\n")
 # for loop with step size 2 ended
 
