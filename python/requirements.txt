@@ -1,1 +1,3 @@
-pip install pynput
+pynput
+threading
+smtplib
