@@ -27,7 +27,7 @@ print("\n")
 
 a.append("7") #will add Lamborghini item in list after the last item in list 
 print(a)
-a.insert(0,'0') #with insert,you can specify the index too,Tesla will be the first here now .
+a.insert(0,'0') #with insert,you can specify the index too,0 will be the first here now .
 print(a)
 print("\n")
 
