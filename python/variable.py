@@ -17,9 +17,9 @@ print('b = ',b)
 #In order to find the data type of the variable,we use 'type'.
 print("\n") # \n is a new line character
 print("Data-type of x is",type(x))
-print("Data-type of x is",type(y))
-print("Data-type of x is",type(z))
-print("Data-type of x is",type(a))
-print("Data-type of x is",type(b))
+print("Data-type of y is",type(y))
+print("Data-type of z is",type(z))
+print("Data-type of a is",type(a))
+print("Data-type of b is",type(b))
 
 
