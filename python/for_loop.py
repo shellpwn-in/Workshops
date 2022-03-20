@@ -12,7 +12,7 @@ for variable in range(start,end,step_size):
 
 # For loop with step size 1
 # from 0 to 10 (0 inclusive 10 exclusive)
-for i in range(10):
+for i in range(0, 10):
     print(i)
 print("\n")
 # for loop with step size 1 ended
@@ -25,7 +25,7 @@ for i in range(5, 10):
 print("\n")
 
 # for loop with step size 2
-for i in range(10,2):
+for i in range(0,10,2):
     print(i)
 
 print("\n")
