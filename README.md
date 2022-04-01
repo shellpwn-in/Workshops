@@ -1,14 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/lxkHN7e.png" alt="drawing" width="200"/></div>
 
-### Who are we?
-
-**S**ecure **H**ack **E**xploit and **L**earn with **L**inux aka S.H.E.L.L is the ethical hacking club of VNIT.
-
-We at S.H.E.L.L. unravel numerous mysteries as we guide our colleagues through various challenges to build a secure future. Buckle up as we ride down the lanes leading us right from the basics of Linux commands to Pwning executables. We host workshops and participate in Capture The Flags to demonstrate and enhance our understanding.
-
-> *Security is an illusion; 
-And we are the illusionists.*
-
 ## Workshop#01: Introduction to Linux
 
 We are introduced to the Linux Operating System, it\'s File System and the common workflow in that environment. We also get to know to about various aspects of Linux Users and Groups along with basic commands to navigate through system from the terminal itself.
